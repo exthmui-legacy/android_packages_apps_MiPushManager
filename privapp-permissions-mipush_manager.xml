@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="top.trumeet.mipush">
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.WAKE_LOCK"/>
+        <permission name="moe.yutua.mipush.permissions.USE_PUSH_MANAGER_API"/>
+        <permission name="top.trumeet.mipush.permissions.BIND"/>
+        <permission name="top.trumeet.mipush.permissions.GET_VERSION"/>
+        <permission name="top.trumeet.mipush.permissions.READ_SETTINGS"/>
+        <permission name="top.trumeet.mipush.permissions.WRITE_SETTINGS"/>
+    </privapp-permissions>
+</permissions>
